@@ -11,9 +11,8 @@
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">1</value>
+  <null name="build"/>
   <null name="description"/>
   <value name="created_date">19-04-2023 12:30:53 GMT</value>
   <null name="extendedProperties"/>
-  <value name="lastUpdated">2023-04-19T12:30:55.778160319Z</value>
 </Values>
