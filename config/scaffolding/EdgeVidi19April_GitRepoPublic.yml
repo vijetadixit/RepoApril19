@@ -1,0 +1,13 @@
+version: "1.0"
+info:
+  scaffold: TestFs1
+  model: int-scaffold
+services:
+- serviceName: edge.vidi19april_gitrepopublic.integrations:TestFs1
+  packages:
+  - name: EdgeVidi19April_GitRepoPublic
+    version: "1.0"
+- serviceName: pub.math:addInts
+  packages:
+  - name: WmPublic
+    version: 11.0.0.0.274
